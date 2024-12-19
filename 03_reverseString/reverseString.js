@@ -9,5 +9,13 @@ const reverseString = function (str) {
   //   // print iteration for testing purposes
 };
 
+// const reverseString1 = function (string) {
+//   return string.split("").reverse().join("");
+// };
+
+// let a = "Leonardo";
+// console.log(a.split(""));
+// console.log(a.split("").reverse());
+// console.log(a.split("").reverse().join(""));
 // Do not edit below this line
 module.exports = reverseString;
